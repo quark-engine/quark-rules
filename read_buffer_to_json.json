@@ -1,0 +1,15 @@
+{
+    "crime": "Put buffer stream (data) to JSON object",
+    "x1_permission": [],
+    "x2n3n4_comb": [
+        {
+            "class": "Ljava/io/BufferedInputStream",
+            "method": "read"
+        },
+        {
+            "class": "Lorg/json/JSONObject",
+            "method": "put"
+        }
+    ],
+    "yscore": 1
+}

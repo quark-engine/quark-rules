@@ -1,0 +1,15 @@
+{
+    "crime": "Check if successfully sending out SMS",
+    "x1_permission": [],
+    "x2n3n4_comb": [
+        {
+            "class": "Landroid/telephony/SmsManager",
+            "method": "sendTextMessage"
+        },
+        {
+            "class": "Ljava/lang/Boolean",
+            "method": "valueOf"
+        }
+    ],
+    "yscore": 1
+}

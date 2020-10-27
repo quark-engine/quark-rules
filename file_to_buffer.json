@@ -1,0 +1,15 @@
+{
+    "crime": "Read data and put it into a buffer stream",
+    "x1_permission": [],
+    "x2n3n4_comb": [
+        {
+            "class": "Ljava/io/FileInputStream",
+            "method": "<init>"
+        },
+        {
+            "class": "Ljava/io/BufferedInputStream",
+            "method": "<init>"
+        }
+    ],
+    "yscore": 1
+}

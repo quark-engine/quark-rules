@@ -1,0 +1,15 @@
+{
+    "crime": "Get JSON object prepared and fill in location info",
+    "x1_permission": [],
+    "x2n3n4_comb": [
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "<init>"
+        },
+        {
+            "class": "Landroid/location/LocationManager;",
+            "method": "requestLocationUpdates"
+        }
+    ],
+    "yscore": 1
+}

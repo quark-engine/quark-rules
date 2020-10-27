@@ -1,0 +1,15 @@
+{
+    "crime": "Read file and put it into a stream",
+    "x1_permission": [],
+    "x2n3n4_comb": [
+        {
+            "class": "Ljava/io/File",
+            "method": "<init>"
+        },
+        {
+            "class": "Ljava/io/FileInputStream",
+            "method": "<init>"
+        }
+    ],
+    "yscore": 1
+}

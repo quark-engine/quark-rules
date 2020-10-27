@@ -1,0 +1,15 @@
+{
+    "crime": "Open the camera and take picture",
+    "x1_permission": [],
+    "x2n3n4_comb": [
+        {
+            "class": "Landroid/hardware/Camera",
+            "method": "open"
+        },
+        {
+            "class": "Landroid/hardware/Camera",
+            "method": "takePicture"
+        }
+    ],
+    "yscore": 1
+}

@@ -1,0 +1,15 @@
+{
+    "crime": "Get Location of the device and apend this info to a string",
+    "x1_permission": [],
+    "x2n3n4_comb": [
+        {
+            "class": "Landroid/location/Location",
+            "method": "getLatitude"
+        },
+        {
+            "class": "Ljava/lang/StringBuilder",
+            "method": "append"
+        }
+    ],
+    "yscore": 1
+}

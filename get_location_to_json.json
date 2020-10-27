@@ -1,0 +1,15 @@
+{
+    "crime": "Get location info of the device and put it to JSON object",
+    "x1_permission": [],
+    "x2n3n4_comb": [
+        {
+            "class": "Landroid/location/Location;",
+            "method": "getLongitude"
+        },
+        {
+            "class": "Lorg/json/JSONObject;",
+            "method": "put"
+        }
+    ],
+    "yscore": 1
+}

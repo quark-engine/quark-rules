@@ -1,0 +1,15 @@
+{
+    "crime": "Get absolute path of file and put it to JSON object",
+    "x1_permission": [],
+    "x2n3n4_comb": [
+        {
+            "class": "Ljava/io/File",
+            "method": "getAbsolutePath"
+        },
+        {
+            "class": "Lorg/json/JSONObject",
+            "method": "put"
+        }
+    ],
+    "yscore": 1
+}
