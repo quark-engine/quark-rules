@@ -3,12 +3,12 @@
     "x1_permission": [],
     "x2n3n4_comb": [
         {
-            "class": "Landroid/location/Location",
+            "class": "Landroid/location/Location;",
             "method": "getLatitude",
             "descriptor": "()D"
         },
         {
-            "class": "Ljava/lang/StringBuilder",
+            "class": "Ljava/lang/StringBuilder;",
             "method": "append",
             "descriptor": "(D)Ljava/lang/StringBuilder;"
         }

@@ -3,12 +3,12 @@
     "x1_permission": [],
     "x2n3n4_comb": [
         {
-            "class": "Landroid/database/Cursor",
+            "class": "Landroid/database/Cursor;",
             "method": "getString",
             "descriptor": "(I)Ljava/lang/String;"
         },
         {
-            "class": "Lorg/json/JSONObject",
+            "class": "Lorg/json/JSONObject;",
             "method": "put",
             "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;"
         }

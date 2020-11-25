@@ -3,12 +3,12 @@
     "x1_permission": [],
     "x2n3n4_comb": [
         {
-            "class": "Landroid/hardware/Camera",
+            "class": "Landroid/hardware/Camera;",
             "method": "open",
             "descriptor": "(I)Landroid/hardware/Camera;"
         },
         {
-            "class": "Landroid/hardware/Camera",
+            "class": "Landroid/hardware/Camera;",
             "method": "takePicture",
             "descriptor": "(Landroid/hardware/Camera$ShutterCallback; Landroid/hardware/Camera$PictureCallback; Landroid/hardware/Camera$PictureCallback;)V"
         }

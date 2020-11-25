@@ -3,12 +3,12 @@
     "x1_permission": [],
     "x2n3n4_comb": [
         {
-            "class": "Landroid/net/Uri",
+            "class": "Landroid/net/Uri;",
             "method": "parse",
             "descriptor": "(Ljava/lang/String;)Landroid/net/Uri;"
         },
         {
-            "class": "Landroid/content/ContentResolver",
+            "class": "Landroid/content/ContentResolver;",
             "method": "query",
             "descriptor": "(Landroid/net/Uri; [Ljava/lang/String; Ljava/lang/String; [Ljava/lang/String; Ljava/lang/String;)Landroid/database/Cursor;"
         }

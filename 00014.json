@@ -3,12 +3,12 @@
     "x1_permission": [],
     "x2n3n4_comb": [
         {
-            "class": "Ljava/io/FileInputStream",
+            "class": "Ljava/io/FileInputStream;",
             "method": "<init>",
             "descriptor": "(Ljava/io/File;)V"
         },
         {
-            "class": "Lorg/json/JSONObject",
+            "class": "Lorg/json/JSONObject;",
             "method": "put",
             "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;"
         }
