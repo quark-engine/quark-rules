@@ -4,11 +4,13 @@
     "x2n3n4_comb": [
         {
             "class": "Landroid/graphics/Bitmap",
-            "method": "compress"
+            "method": "compress",
+            "descriptor": "(Landroid/graphics/Bitmap$CompressFormat; I Ljava/io/OutputStream;)Z"
         },
         {
             "class": "Lorg/json/JSONObject",
-            "method": "put"
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; Z)Lorg/json/JSONObject;"
         }
     ],
     "yscore": 1

@@ -4,11 +4,13 @@
     "x2n3n4_comb": [
         {
             "class": "Ljava/io/File",
-            "method": "getName"
+            "method": "getName",
+            "descriptor": "()Ljava/lang/String;"
         },
         {
             "class": "Lorg/json/JSONObject",
-            "method": "put"
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;"
         }
     ],
     "yscore": 1

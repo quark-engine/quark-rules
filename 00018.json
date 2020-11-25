@@ -4,11 +4,13 @@
     "x2n3n4_comb": [
         {
             "class": "Lorg/json/JSONObject;",
-            "method": "<init>"
+            "method": "<init>",
+            "descriptor": "()V"
         },
         {
             "class": "Landroid/location/LocationManager;",
-            "method": "requestLocationUpdates"
+            "method": "requestLocationUpdates",
+            "descriptor":"(Ljava/lang/String; J F Landroid/location/LocationListener;)V"
         }
     ],
     "yscore": 1

@@ -4,11 +4,13 @@
     "x2n3n4_comb": [
         {
             "class": "Ljava/io/BufferedInputStream",
-            "method": "read"
+            "method": "read",
+            "descriptor": "([B I I)I"
         },
         {
             "class": "Lorg/json/JSONObject",
-            "method": "put"
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;"
         }
     ],
     "yscore": 1

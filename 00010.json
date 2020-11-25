@@ -4,11 +4,13 @@
     "x2n3n4_comb": [
         {
             "class": "Landroid/content/ContentResolver",
-            "method": "query"
+            "method": "query",
+            "descriptor": "(Landroid/net/Uri; [Ljava/lang/String; Ljava/lang/String; [Ljava/lang/String; Ljava/lang/String;)Landroid/database/Cursor;"
         },
         {
             "class": "Lorg/json/JSONObject",
-            "method": "put"
+            "method": "put",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;"
         }
     ],
     "yscore": 1
