@@ -4,11 +4,13 @@
     "x2n3n4_comb": [
         {
             "class": "Ljava/io/FileInputStream",
-            "method": "<init>"
+            "method": "<init>",
+            "descriptor": "(Ljava/io/File;)V"
         },
         {
             "class": "Ljava/io/BufferedInputStream",
-            "method": "<init>"
+            "method": "<init>",
+            "descriptor": "(Ljava/io/InputStream;)V"
         }
     ],
     "yscore": 1

@@ -4,11 +4,13 @@
     "x2n3n4_comb": [
         {
             "class": "Landroid/media/MediaRecorder;",
-            "method": "<init>"
+            "method": "<init>",
+            "descriptor": "()V"
         },
         {
             "class": "Ljava/util/Timer;",
-            "method": "<init>"
+            "method": "<init>",
+            "descriptor": "()V"
         }
     ],
     "yscore": 1

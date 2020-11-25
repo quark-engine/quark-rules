@@ -4,11 +4,13 @@
     "x2n3n4_comb": [
         {
             "class": "Ljava/io/File",
-            "method": "getAbsolutePath"
+            "method": "getAbsolutePath",
+            "descriptor": "()Ljava/lang/String;"
         },
         {
             "class": "Landroid/media/MediaRecorder",
-            "method": "setOutputFile"
+            "method": "setOutputFile",
+            "descriptor": "(Ljava/lang/String;)V"
         }
     ],
     "yscore": 1

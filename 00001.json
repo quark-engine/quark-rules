@@ -4,11 +4,13 @@
     "x2n3n4_comb": [
         {
             "class": "Landroid/graphics/BitmapFactory",
-            "method": "decodeByteArray"
+            "method": "decodeByteArray",
+            "descriptor": "([B I I)Landroid/graphics/Bitmap;"
         },
         {
             "class": "Landroid/graphics/Bitmap",
-            "method": "compress"
+            "method": "compress",
+            "descriptor": "(Landroid/graphics/Bitmap$CompressFormat; I Ljava/io/OutputStream;)Z"
         }
     ],
     "yscore": 1

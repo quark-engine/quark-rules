@@ -4,11 +4,13 @@
     "x2n3n4_comb": [
         {
             "class": "Landroid/hardware/Camera",
-            "method": "open"
+            "method": "open",
+            "descriptor": "(I)Landroid/hardware/Camera;"
         },
         {
             "class": "Landroid/hardware/Camera",
-            "method": "takePicture"
+            "method": "takePicture",
+            "descriptor": "(Landroid/hardware/Camera$ShutterCallback; Landroid/hardware/Camera$PictureCallback; Landroid/hardware/Camera$PictureCallback;)V"
         }
     ],
     "yscore": 1
