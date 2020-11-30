@@ -1,16 +1,16 @@
 {
-  "crime": "Query the SIM card status",
+  "crime": "Query the network operator name",
   "x1_permission": [],
   "x2n3n4_comb": [
     {
       "class": "Landroid/telephony/TelephonyManager;",
-      "method": "getSimState",
-      "descriptor": "()I"
+      "method": "getNetworkOperatorName",
+      "descriptor": "()Ljava/lang/String;"
     },
     {
       "class": "Ljava/lang/Integer;",
-      "method": "intValue",
-      "descriptor": "()I"
+      "method": "valueOf",
+      "descriptor": "(I)Ljava/lang/Integer;"
     }
   ],
   "yscore": 1

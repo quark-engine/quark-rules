@@ -1,5 +1,5 @@
 {
-  "crime": "Return dynamic information about the current Wi-Fi connection",
+  "crime": "Query WiFi information and WiFi Mac Address",
   "x1_permission": [],
   "x2n3n4_comb": [
     {
@@ -8,9 +8,9 @@
       "descriptor": "()Landroid/net/wifi/WifiInfo;"
     },
     {
-      "class": "Ljava/lang/Integer;",
-      "method": "valueOf",
-      "descriptor": "(I)Ljava/lang/Integer;"
+      "class": "Landroid/net/wifi/WifiInfo;",
+      "method": "getMacAddress",
+      "descriptor": "()Ljava/lang/String;"
     }
   ],
   "yscore": 1

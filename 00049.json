@@ -1,5 +1,5 @@
 {
-  "crime": "Query the SMS contents",
+  "crime": "Query the phone number from SMS sender",
   "x1_permission": [],
   "x2n3n4_comb": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "class": "Landroid/telephony/SmsMessage;",
-      "method": "getDisplayMessageBody",
+      "method": "getDisplayOriginatingAddress",
       "descriptor": "()Ljava/lang/String;"
     }
   ],

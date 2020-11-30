@@ -1,11 +1,11 @@
 {
-  "crime": "Query the network operator name",
+  "crime": "Return dynamic information about the current Wi-Fi connection",
   "x1_permission": [],
   "x2n3n4_comb": [
     {
-      "class": "Landroid/telephony/TelephonyManager;",
-      "method": "getNetworkOperatorName",
-      "descriptor": "()Ljava/lang/String;"
+      "class": "Landroid/net/wifi/WifiManager;",
+      "method": "getConnectionInfo",
+      "descriptor": "()Landroid/net/wifi/WifiInfo;"
     },
     {
       "class": "Ljava/lang/Integer;",

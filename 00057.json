@@ -1,16 +1,16 @@
 {
-  "crime": "Modify voice volume",
+  "crime": "Return the DHCP-assigned addresses from the last successful DHCP request",
   "x1_permission": [],
   "x2n3n4_comb": [
     {
-      "class": "Landroid/media/AudioManager;",
-      "method": "getStreamMaxVolume",
-      "descriptor": "(I)I"
+      "class": "Landroid/net/wifi/WifiManager;",
+      "method": "getDhcpInfo",
+      "descriptor": "()Landroid/net/DhcpInfo;"
     },
     {
-      "class": "Landroid/media/AudioManager;",
-      "method": "setStreamVolume",
-      "descriptor": "(I I I)V"
+      "class": "Ljava/lang/StringBuilder;",
+      "method": "toString",
+      "descriptor": "()Ljava/lang/String;"
     }
   ],
   "yscore": 1

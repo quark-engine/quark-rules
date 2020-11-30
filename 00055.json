@@ -1,16 +1,16 @@
 {
-  "crime": "Install other APKs from file",
+  "crime": "Query the SMS content and the source of the phone number",
   "x1_permission": [],
   "x2n3n4_comb": [
     {
-      "class": "Landroid/net/Uri;",
-      "method": "fromFile",
-      "descriptor": "(Ljava/io/File;)Landroid/net/Uri;"
+      "class": "Landroid/telephony/SmsMessage;",
+      "method": "getDisplayMessageBody",
+      "descriptor": "()Ljava/lang/String;"
     },
     {
-      "class": "Landroid/content/Intent;",
-      "method": "setDataAndType",
-      "descriptor": "(Landroid/net/Uri; Ljava/lang/String;)Landroid/content/Intent;"
+      "class": "Landroid/telephony/SmsMessage;",
+      "method": "getDisplayOriginatingAddress",
+      "descriptor": "()Ljava/lang/String;"
     }
   ],
   "yscore": 1

@@ -1,16 +1,16 @@
 {
-  "crime": "Return the DHCP-assigned addresses from the last successful DHCP request",
+  "crime": "Connect to the specific WIFI network",
   "x1_permission": [],
   "x2n3n4_comb": [
     {
       "class": "Landroid/net/wifi/WifiManager;",
-      "method": "getDhcpInfo",
-      "descriptor": "()Landroid/net/DhcpInfo;"
+      "method": "getConfiguredNetworks",
+      "descriptor": "()Ljava/util/List;"
     },
     {
-      "class": "Ljava/lang/StringBuilder;",
-      "method": "toString",
-      "descriptor": "()Ljava/lang/String;"
+      "class": "Landroid/net/wifi/WifiManager;",
+      "method": "enableNetwork",
+      "descriptor": "(I Z)Z"
     }
   ],
   "yscore": 1
