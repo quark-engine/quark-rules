@@ -1,0 +1,17 @@
+{
+  "crime": "Delete the SMS",
+  "x1_permission": [],
+  "x2n3n4_comb": [
+    {
+      "class": "Landroid/net/Uri;",
+      "method": "parse",
+      "descriptor": "(Ljava/lang/String;)Landroid/net/Uri;"
+    },
+    {
+      "class": "Landroid/content/ContentResolver;",
+      "method": "delete",
+      "descriptor": "(Landroid/net/Uri; Ljava/lang/String; [Ljava/lang/String;)I"
+    }
+  ],
+  "yscore": 1
+}

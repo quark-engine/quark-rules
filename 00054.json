@@ -1,0 +1,17 @@
+{
+  "crime": "Monitor the SMS/MMS events",
+  "x1_permission": [],
+  "x2n3n4_comb": [
+    {
+      "class": "Landroid/net/Uri;",
+      "method": "parse",
+      "descriptor": "(Ljava/lang/String;)Landroid/net/Uri;"
+    },
+    {
+      "class": "Landroid/content/ContentResolver;",
+      "method": "registerContentObserver",
+      "descriptor": "(Landroid/net/Uri; Z Landroid/database/ContentObserver;)V"
+    }
+  ],
+  "yscore": 1
+}
