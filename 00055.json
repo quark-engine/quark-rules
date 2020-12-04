@@ -1,4 +1,5 @@
 {
+  "label": "SMS",
   "crime": "Query the SMS content and the source of the phone number",
   "x1_permission": [],
   "x2n3n4_comb": [
