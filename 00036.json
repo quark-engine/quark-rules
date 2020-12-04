@@ -13,5 +13,6 @@
       "descriptor": "(Ljava/lang/String;)Landroid/net/Uri;"
     }
   ],
-  "yscore": 1
+  "yscore": 1,
+  "label": ["reflection"]
 }

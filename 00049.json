@@ -1,5 +1,4 @@
 {
-  "label": "SMS",
   "crime": "Query the phone number from SMS sender",
   "x1_permission": [],
   "x2n3n4_comb": [
@@ -14,5 +13,6 @@
       "descriptor": "()Ljava/lang/String;"
     }
   ],
-  "yscore": 1
+  "yscore": 1,
+  "label": ["sms", "collection"]
 }

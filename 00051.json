@@ -13,5 +13,6 @@
       "descriptor": "(Landroid/net/Uri;)Landroid/content/Intent;"
     }
   ],
-  "yscore": 1
+  "yscore": 1,
+  "label": ["control"]
 }

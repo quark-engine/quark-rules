@@ -13,5 +13,6 @@
       "descriptor": "()J"
     }
   ],
-  "yscore": 1
+  "yscore": 1,
+  "label": ["collection", "reflection"]
 }

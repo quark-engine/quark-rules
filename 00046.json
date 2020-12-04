@@ -13,5 +13,6 @@
       "descriptor": "(Ljava/lang/Object; [Ljava/lang/Object;)Ljava/lang/Object;"
     }
   ],
-  "yscore": 1
+  "yscore": 1,
+  "label": ["reflection"]
 }

@@ -1,5 +1,4 @@
 {
-    "label": "SMS",
     "crime": "Query data from URI (SMS, CALLLOGS)",
     "x1_permission": [],
     "x2n3n4_comb": [
@@ -14,5 +13,6 @@
             "descriptor": "(Landroid/net/Uri; [Ljava/lang/String; Ljava/lang/String; [Ljava/lang/String; Ljava/lang/String;)Landroid/database/Cursor;"
         }
     ],
-    "yscore": 1
+    "yscore": 1,
+    "label": ["sms", "calllog", "collection"]
 }

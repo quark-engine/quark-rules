@@ -1,5 +1,4 @@
 {
-    "label": "SMS",
     "crime": "Read sensitive data(SMS, CALLLOG) and put it into JSON object",
     "x1_permission": [],
     "x2n3n4_comb": [
@@ -14,5 +13,6 @@
             "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;"
         }
     ],
-    "yscore": 1
+    "yscore": 1,
+    "label": ["sms", "calllog", "collection"]
 }

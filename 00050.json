@@ -1,5 +1,4 @@
 {
-  "label": "SMS",
   "crime": "Query the SMS service centre timestamp",
   "x1_permission": [],
   "x2n3n4_comb": [
@@ -14,5 +13,6 @@
       "descriptor": "()J"
     }
   ],
-  "yscore": 1
+  "yscore": 1,
+  "label": ["sms", "collection"]
 }

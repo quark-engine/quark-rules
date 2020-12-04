@@ -13,5 +13,6 @@
       "descriptor": "(I Landroid/app/Notification;)V"
     }
   ],
-  "yscore": 1
+  "yscore": 1,
+  "label": ["control"]
 }

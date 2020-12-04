@@ -13,5 +13,6 @@
             "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;"
         }
     ],
-    "yscore": 1
+    "yscore": 1,
+    "label": ["file"]
 }

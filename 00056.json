@@ -13,5 +13,6 @@
       "descriptor": "(I I I)V"
     }
   ],
-  "yscore": 1
+  "yscore": 1,
+  "label": ["control"]
 }

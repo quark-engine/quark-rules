@@ -13,5 +13,6 @@
       "descriptor": "(I)Ljava/util/List;"
     }
   ],
-  "yscore": 1
+  "yscore": 1,
+  "label": ["reflection"]
 }

@@ -1,5 +1,4 @@
 {
-  "label": "SMS",
   "crime": "Monitor the SMS/MMS events",
   "x1_permission": [],
   "x2n3n4_comb": [
@@ -14,5 +13,6 @@
       "descriptor": "(Landroid/net/Uri; Z Landroid/database/ContentObserver;)V"
     }
   ],
-  "yscore": 1
+  "yscore": 1,
+  "label": ["sms"]
 }
