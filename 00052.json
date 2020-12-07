@@ -1,5 +1,5 @@
 {
-  "crime": "Delete the SMS",
+  "crime": "Deletes media specified by a content URI(SMS, CALL_LOG, File, etc.)",
   "x1_permission": [],
   "x2n3n4_comb": [
     {
