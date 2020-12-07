@@ -3,9 +3,9 @@
   "x1_permission": [],
   "x2n3n4_comb": [
     {
-      "class": "Ljava/lang/Boolean;",
-      "method": "valueOf",
-      "descriptor": "(Ljava/lang/String;)Ljava/lang/Boolean;"
+        "class": "Landroid/content/Context;",
+        "method": "getSystemService",
+        "descriptor": "(Ljava/lang/String;)Ljava/lang/Object;"
     },
     {
       "class": "Landroid/telephony/TelephonyManager;",
