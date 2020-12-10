@@ -1,5 +1,5 @@
 {
-  "crime": "Monitor the SMS/MMS events",
+  "crime": "Monitor data identified by a given content URI changes(SMS, MMS, etc.)",
   "x1_permission": [],
   "x2n3n4_comb": [
     {
