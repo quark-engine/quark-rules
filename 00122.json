@@ -1,0 +1,21 @@
+{
+  "x2n3n4_comb": [
+    {
+      "descriptor": "()Ljava/lang/String;",
+      "class": "Landroid/telephony/SmsMessage;",
+      "method": "getOriginatingAddress"
+    },
+    {
+      "descriptor": "(Ljava/lang/CharSequence;)Z",
+      "class": "Ljava/lang/String;",
+      "method": "contains"
+    }
+  ],
+  "yscore": 1,
+  "x1_permission": [],
+  "crime": "Check if the sender address of SMS contains the given string",
+  "label": [
+    "sms",
+    "collection"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "x2n3n4_comb": [
+        {
+            "descriptor": "()Ljava/lang/String;", 
+            "class": "Ljava/net/InetAddress;", 
+            "method": "getHostAddress"
+        }, 
+        {
+            "descriptor": "()Ljava/net/Socket;", 
+            "class": "Ljavax/net/SocketFactory;", 
+            "method": "createSocket"
+        }
+    ], 
+    "yscore": 1, 
+    "x1_permission": [], 
+    "crime": "Create a socket connection to the given host address.", 
+    "label": ["network", "command"]
+}

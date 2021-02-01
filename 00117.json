@@ -1,0 +1,21 @@
+{
+  "x2n3n4_comb": [
+    {
+      "descriptor": "()Ljava/lang/String;",
+      "class": "Landroid/telephony/TelephonyManager;",
+      "method": "getSubscriberId"
+    },
+    {
+      "descriptor": "()Ljava/lang/String;",
+      "class": "Landroid/telephony/TelephonyManager;",
+      "method": "getNetworkOperatorName"
+    }
+  ],
+  "yscore": 1,
+  "x1_permission": [],
+  "crime": "Get the IMSI and network operator name",
+  "label": [
+    "telephony",
+    "collection"
+  ]
+}

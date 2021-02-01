@@ -1,0 +1,18 @@
+{
+    "x2n3n4_comb": [
+        {
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/Object;", 
+            "class": "Landroid/content/Context;", 
+            "method": "getSystemService"
+        }, 
+        {
+            "descriptor": "()I", 
+            "class": "Landroid/net/wifi/WifiInfo;", 
+            "method": "getNetworkId"
+        }
+    ], 
+    "yscore": 1, 
+    "x1_permission": [], 
+    "crime": "Get the current WiFi id.", 
+    "label": ["collection", "wifi"]
+}

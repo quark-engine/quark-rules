@@ -1,0 +1,21 @@
+{
+  "x2n3n4_comb": [
+    {
+      "descriptor": "()Ljava/lang/String;",
+      "class": "Landroid/telephony/SubscriptionInfo;",
+      "method": "getIccId"
+    },
+    {
+      "descriptor": "([B)V",
+      "class": "Ljava/io/FileOutputStream;",
+      "method": "write"
+    }
+  ],
+  "yscore": 1,
+  "x1_permission": [],
+  "crime": "Write the ICCID of device into a file",
+  "label": [
+    "collection",
+    "telephony"
+  ]
+}

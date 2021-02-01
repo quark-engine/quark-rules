@@ -1,0 +1,18 @@
+{
+    "x2n3n4_comb": [
+        {
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/Object;", 
+            "class": "Landroid/content/Context;", 
+            "method": "getSystemService"
+        }, 
+        {
+            "descriptor": "()Ljava/lang/String;", 
+            "class": "Landroid/telephony/TelephonyManager;", 
+            "method": "getLine1Number"
+        }
+    ], 
+    "yscore": 1, 
+    "x1_permission": [], 
+    "crime": "Get the phone number of device.", 
+    "label": ["collection", "telephony"]
+}

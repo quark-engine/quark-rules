@@ -1,0 +1,18 @@
+{
+    "x2n3n4_comb": [
+        {
+            "descriptor": "(I)I", 
+            "class": "Ljava/util/Calendar;", 
+            "method": "get"
+        }, 
+        {
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/StringBuilder;", 
+            "class": "Ljava/lang/StringBuilder;", 
+            "method": "append"
+        }
+    ], 
+    "yscore": 1, 
+    "x1_permission": [], 
+    "crime": "Get calendar information.", 
+    "label": ["collection", "calendar"]
+}

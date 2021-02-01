@@ -1,0 +1,18 @@
+{
+    "x2n3n4_comb": [
+        {
+            "descriptor": "()V", 
+            "class": "Ljava/net/HttpURLConnection;", 
+            "method": "connect"
+        }, 
+        {
+            "descriptor": "(Ljava/lang/String;)V", 
+            "class": "Lorg/json/JSONObject;", 
+            "method": "<init>"
+        }
+    ], 
+    "yscore": 1, 
+    "x1_permission": [], 
+    "crime": "Connect to the remote server.", 
+    "label": ["network", "command"]
+}

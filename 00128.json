@@ -1,0 +1,21 @@
+{
+  "x2n3n4_comb": [
+    {
+      "descriptor": "(Landroid/content/Context;)Landroid/accounts/AccountManager;",
+      "class": "Landroid/accounts/AccountManager;",
+      "method": "get"
+    },
+    {
+      "descriptor": "()[Landroid/accounts/Account;",
+      "class": "Landroid/accounts/AccountManager;",
+      "method": "getAccounts"
+    }
+  ],
+  "yscore": 1,
+  "x1_permission": [],
+  "crime": "Query user account information",
+  "label": [
+    "collection",
+    "account"
+  ]
+}

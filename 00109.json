@@ -1,0 +1,21 @@
+{
+  "x2n3n4_comb": [
+    {
+      "descriptor": "()Ljava/net/URLConnection;",
+      "class": "Ljava/net/URL;",
+      "method": "openConnection"
+    },
+    {
+      "descriptor": "()I",
+      "class": "Ljava/net/HttpURLConnection;",
+      "method": "getResponseCode"
+    }
+  ],
+  "yscore": 1,
+  "x1_permission": [],
+  "crime": "Connect to a URL and get the response code.",
+  "label": [
+    "network",
+    "command"
+  ]
+}

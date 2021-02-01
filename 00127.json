@@ -1,0 +1,20 @@
+{
+  "x2n3n4_comb": [
+    {
+      "descriptor": "()Ljava/lang/String;",
+      "class": "Landroid/content/Intent;",
+      "method": "getAction"
+    },
+    {
+      "descriptor": "(Ljava/lang/String;)I",
+      "class": "Ljava/lang/String;",
+      "method": "compareToIgnoreCase"
+    }
+  ],
+  "yscore": 1,
+  "x1_permission": [],
+  "crime": "Monitor the broadcast action events (BOOT_COMPLETED, etc)",
+  "label": [
+    "command"
+  ]
+}

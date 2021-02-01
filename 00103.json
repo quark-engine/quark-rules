@@ -1,0 +1,20 @@
+{
+  "x2n3n4_comb": [
+    {
+      "descriptor": "()Landroid/net/NetworkInfo;",
+      "class": "Landroid/net/ConnectivityManager;",
+      "method": "getActiveNetworkInfo"
+    },
+    {
+      "descriptor": "(Ljava/lang/Object;)Z",
+      "class": "Ljava/lang/Object;",
+      "method": "equals"
+    }
+  ],
+  "yscore": 1,
+  "x1_permission": [],
+  "crime": "Check the active network type",
+  "label": [
+    "network"
+  ]
+}

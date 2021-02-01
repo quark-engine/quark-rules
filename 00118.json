@@ -1,0 +1,21 @@
+{
+  "x2n3n4_comb": [
+    {
+      "descriptor": "()Ljava/lang/String;",
+      "class": "Landroid/telephony/SmsMessage;",
+      "method": "getMessageBody"
+    },
+    {
+      "descriptor": "(Ljava/lang/CharSequence;)Z",
+      "class": "Ljava/lang/String;",
+      "method": "contains"
+    }
+  ],
+  "yscore": 1,
+  "x1_permission": [],
+  "crime": "Check if the content of SMS contains given string",
+  "label": [
+    "sms",
+    "collection"
+  ]
+}

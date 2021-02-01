@@ -1,0 +1,21 @@
+{
+  "x2n3n4_comb": [
+    {
+      "descriptor": "()Ljava/lang/String;",
+      "class": "Landroid/telephony/TelephonyManager;",
+      "method": "getNetworkCountryIso"
+    },
+    {
+      "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;",
+      "class": "Lorg/json/JSONObject;",
+      "method": "put"
+    }
+  ],
+  "yscore": 1,
+  "x1_permission": [],
+  "crime": "Get the ISO country code and put it into JSON",
+  "label": [
+    "collection",
+    "telephony"
+  ]
+}

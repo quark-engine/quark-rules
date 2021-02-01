@@ -1,0 +1,18 @@
+{
+    "x2n3n4_comb": [
+        {
+            "descriptor": "()Ljava/lang/String;", 
+            "class": "Ljava/lang/StringBuilder;", 
+            "method": "toString"
+        }, 
+        {
+            "descriptor": "()Ljava/lang/ClassLoader;", 
+            "class": "Landroid/app/Service;", 
+            "method": "getClassLoader"
+        }
+    ], 
+    "yscore": 1, 
+    "x1_permission": [], 
+    "crime": "Get external class from given path or file name.", 
+    "label": ["reflection"]
+}

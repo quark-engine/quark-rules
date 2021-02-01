@@ -1,0 +1,18 @@
+{
+    "x2n3n4_comb": [
+        {
+            "descriptor": "(Ljava/lang/String;)Landroid/location/Location;", 
+            "class": "Landroid/location/LocationManager;", 
+            "method": "getLastKnownLocation"
+        }, 
+        {
+            "descriptor": "()Ljava/lang/String;", 
+            "class": "Landroid/location/Location;", 
+            "method": "toString"
+        }
+    ], 
+    "yscore": 1, 
+    "x1_permission": [], 
+    "crime": "Get last known location of the device.", 
+    "label": ["location", "collection"]
+}

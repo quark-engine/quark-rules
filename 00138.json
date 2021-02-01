@@ -1,0 +1,18 @@
+{
+    "x2n3n4_comb": [
+        {
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;", 
+            "class": "Landroid/os/Bundle;", 
+            "method": "getString"
+        }, 
+        {
+            "descriptor": "(I)V", 
+            "class": "Landroid/media/MediaRecorder;", 
+            "method": "setAudioSource"
+        }
+    ], 
+    "yscore": 1, 
+    "x1_permission": [], 
+    "crime": "Set the audio source (MIC).", 
+    "label": ["record"]
+}

@@ -1,0 +1,18 @@
+{
+    "x2n3n4_comb": [
+        {
+            "descriptor": "()Ljava/lang/String;", 
+            "class": "Ljava/lang/StringBuilder;", 
+            "method": "toString"
+        }, 
+        {
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/Class;", 
+            "class": "Ljava/lang/ClassLoader;", 
+            "method": "loadClass"
+        }
+    ], 
+    "yscore": 1, 
+    "x1_permission": [], 
+    "crime": "Load class from given class name.", 
+    "label": ["reflection"]
+}

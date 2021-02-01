@@ -1,0 +1,21 @@
+{
+  "x2n3n4_comb": [
+    {
+      "descriptor": "(Landroid/net/Network;)Landroid/net/NetworkCapabilities;",
+      "class": "Landroid/net/ConnectivityManager;",
+      "method": "getNetworkCapabilities"
+    },
+    {
+      "descriptor": "(Ljava/lang/Object;)Z",
+      "class": "Ljava/lang/Object;",
+      "method": "equals"
+    }
+  ],
+  "yscore": 1,
+  "x1_permission": [],
+  "crime": "Check the network capabilities",
+  "label": [
+    "collection",
+    "network"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "x2n3n4_comb": [
+    {
+      "descriptor": "()Z",
+      "class": "Landroid/net/NetworkInfo;",
+      "method": "isConnected"
+    },
+    {
+      "descriptor": "(Ljava/lang/Object;)Z",
+      "class": "Ljava/lang/Object;",
+      "method": "equals"
+    }
+  ],
+  "yscore": 1,
+  "x1_permission": [],
+  "crime": "Check if the network connected",
+  "label": [
+    "network"
+  ]
+}
