@@ -1,21 +1,21 @@
 {
-  "x2n3n4_comb": [
-    {
-      "descriptor": "()Ljava/lang/String;",
-      "class": "Landroid/telephony/TelephonyManager;",
-      "method": "getSubscriberId"
-    },
-    {
-      "descriptor": "()Ljava/lang/String;",
-      "class": "Landroid/telephony/TelephonyManager;",
-      "method": "getNetworkCountryIso"
-    }
-  ],
-  "yscore": 1,
-  "x1_permission": [],
-  "crime": "Get IMSI and the ISO country code",
-  "label": [
-    "collection",
-    "telephony"
-  ]
+    "crime": "Get IMSI and the ISO country code",
+    "x1_permission": [],
+    "x2n3n4_comb": [
+        {
+            "descriptor": "()Ljava/lang/String;",
+            "class": "Landroid/telephony/TelephonyManager;",
+            "method": "getSubscriberId"
+        },
+        {
+            "descriptor": "()Ljava/lang/String;",
+            "class": "Landroid/telephony/TelephonyManager;",
+            "method": "getNetworkCountryIso"
+        }
+    ],
+    "yscore": 1,
+    "label": [
+        "collection",
+        "telephony"
+    ]
 }

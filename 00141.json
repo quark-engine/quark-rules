@@ -1,18 +1,20 @@
 {
+    "crime": "Load class from given class name.",
+    "x1_permission": [],
     "x2n3n4_comb": [
         {
-            "descriptor": "()Ljava/lang/String;", 
-            "class": "Ljava/lang/StringBuilder;", 
+            "descriptor": "()Ljava/lang/String;",
+            "class": "Ljava/lang/StringBuilder;",
             "method": "toString"
-        }, 
+        },
         {
-            "descriptor": "(Ljava/lang/String;)Ljava/lang/Class;", 
-            "class": "Ljava/lang/ClassLoader;", 
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/Class;",
+            "class": "Ljava/lang/ClassLoader;",
             "method": "loadClass"
         }
-    ], 
-    "yscore": 1, 
-    "x1_permission": [], 
-    "crime": "Load class from given class name.", 
-    "label": ["reflection"]
+    ],
+    "yscore": 1,
+    "label": [
+        "reflection"
+    ]
 }

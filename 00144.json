@@ -1,18 +1,23 @@
 {
+    "crime": "Query SIM card serial number and write it into file.",
+    "x1_permission": [],
     "x2n3n4_comb": [
         {
-            "descriptor": "()Ljava/lang/String;", 
-            "class": "Landroid/telephony/TelephonyManager;", 
+            "descriptor": "()Ljava/lang/String;",
+            "class": "Landroid/telephony/TelephonyManager;",
             "method": "getSimSerialNumber"
-        }, 
+        },
         {
-            "descriptor": "([B)V", 
-            "class": "Ljava/io/FileOutputStream;", 
+            "descriptor": "([B)V",
+            "class": "Ljava/io/FileOutputStream;",
             "method": "write"
         }
-    ], 
-    "yscore": 1, 
-    "x1_permission": [], 
-    "crime": "Query SIM card serial number and write it into file.", 
-    "label": ["collection", "telephony", "file", "command"]
+    ],
+    "yscore": 1,
+    "label": [
+        "collection",
+        "telephony",
+        "file",
+        "command"
+    ]
 }

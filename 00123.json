@@ -1,18 +1,21 @@
 {
+    "crime": "Connect to the remote server.",
+    "x1_permission": [],
     "x2n3n4_comb": [
         {
-            "descriptor": "()V", 
-            "class": "Ljava/net/HttpURLConnection;", 
+            "descriptor": "()V",
+            "class": "Ljava/net/HttpURLConnection;",
             "method": "connect"
-        }, 
+        },
         {
-            "descriptor": "(Ljava/lang/String;)V", 
-            "class": "Lorg/json/JSONObject;", 
+            "descriptor": "(Ljava/lang/String;)V",
+            "class": "Lorg/json/JSONObject;",
             "method": "<init>"
         }
-    ], 
-    "yscore": 1, 
-    "x1_permission": [], 
-    "crime": "Connect to the remote server.", 
-    "label": ["network", "command"]
+    ],
+    "yscore": 1,
+    "label": [
+        "network",
+        "command"
+    ]
 }

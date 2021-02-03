@@ -1,20 +1,20 @@
 {
-  "x2n3n4_comb": [
-    {
-      "descriptor": "()Z",
-      "class": "Landroid/net/NetworkInfo;",
-      "method": "isRoaming"
-    },
-    {
-      "descriptor": "(Ljava/lang/Object;)Z",
-      "class": "Ljava/lang/Object;",
-      "method": "equals"
-    }
-  ],
-  "yscore": 1,
-  "x1_permission": [],
-  "crime": "Check if the device is in data roaming mode",
-  "label": [
-    "telephony"
-  ]
+    "crime": "Check if the device is in data roaming mode",
+    "x1_permission": [],
+    "x2n3n4_comb": [
+        {
+            "descriptor": "()Z",
+            "class": "Landroid/net/NetworkInfo;",
+            "method": "isRoaming"
+        },
+        {
+            "descriptor": "(Ljava/lang/Object;)Z",
+            "class": "Ljava/lang/Object;",
+            "method": "equals"
+        }
+    ],
+    "yscore": 1,
+    "label": [
+        "telephony"
+    ]
 }

@@ -1,18 +1,21 @@
 {
+    "crime": "Get the current WiFi id and put it into JSON.",
+    "x1_permission": [],
     "x2n3n4_comb": [
         {
-            "descriptor": "()I", 
-            "class": "Landroid/net/wifi/WifiInfo;", 
+            "descriptor": "()I",
+            "class": "Landroid/net/wifi/WifiInfo;",
             "method": "getNetworkId"
-        }, 
+        },
         {
-            "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;", 
-            "class": "Lorg/json/JSONObject;", 
+            "descriptor": "(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;",
+            "class": "Lorg/json/JSONObject;",
             "method": "put"
         }
-    ], 
-    "yscore": 1, 
-    "x1_permission": [], 
-    "crime": "Get the current WiFi id and put it into JSON.", 
-    "label": ["wifi", "collection"]
+    ],
+    "yscore": 1,
+    "label": [
+        "wifi",
+        "collection"
+    ]
 }

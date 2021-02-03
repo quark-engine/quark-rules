@@ -1,23 +1,23 @@
 {
-  "x2n3n4_comb": [
-    {
-      "descriptor": "(Landroid/net/Uri; [Ljava/lang/String; Ljava/lang/String; [Ljava/lang/String; Ljava/lang/String;)Landroid/database/Cursor;",
-      "class": "Landroid/content/ContentResolver;",
-      "method": "query"
-    },
-    {
-      "descriptor": "()Ljava/lang/String;",
-      "class": "Ljava/lang/String;",
-      "method": "toString"
-    }
-  ],
-  "yscore": 1,
-  "x1_permission": [],
-  "crime": "Read sensitive data(SMS, CALLLOG, etc)",
-  "label": [
-    "collection",
-    "sms",
-    "calllog",
-    "calendar"
-  ]
+    "crime": "Read sensitive data(SMS, CALLLOG, etc)",
+    "x1_permission": [],
+    "x2n3n4_comb": [
+        {
+            "descriptor": "(Landroid/net/Uri; [Ljava/lang/String; Ljava/lang/String; [Ljava/lang/String; Ljava/lang/String;)Landroid/database/Cursor;",
+            "class": "Landroid/content/ContentResolver;",
+            "method": "query"
+        },
+        {
+            "descriptor": "()Ljava/lang/String;",
+            "class": "Ljava/lang/String;",
+            "method": "toString"
+        }
+    ],
+    "yscore": 1,
+    "label": [
+        "collection",
+        "sms",
+        "calllog",
+        "calendar"
+    ]
 }

@@ -1,20 +1,20 @@
 {
-  "x2n3n4_comb": [
-    {
-      "descriptor": "(Ljava/lang/String;)Ljava/lang/String;",
-      "class": "Landroid/os/Bundle;",
-      "method": "getString"
-    },
-    {
-      "descriptor": "()Z",
-      "class": "Ljava/io/File;",
-      "method": "exists"
-    }
-  ],
-  "yscore": 1,
-  "x1_permission": [],
-  "crime": "Check if the given file path exist",
-  "label": [
-    "file"
-  ]
+    "crime": "Check if the given file path exist",
+    "x1_permission": [],
+    "x2n3n4_comb": [
+        {
+            "descriptor": "(Ljava/lang/String;)Ljava/lang/String;",
+            "class": "Landroid/os/Bundle;",
+            "method": "getString"
+        },
+        {
+            "descriptor": "()Z",
+            "class": "Ljava/io/File;",
+            "method": "exists"
+        }
+    ],
+    "yscore": 1,
+    "label": [
+        "file"
+    ]
 }
