@@ -1,5 +1,5 @@
 {
-    "crime": "Create a secured socket connection to the given host address",
+    "crime": "Create a secure socket connection to the given host address",
     "x1_permission": [],
     "x2n3n4_comb": [
         {
