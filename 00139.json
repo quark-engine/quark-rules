@@ -6,13 +6,13 @@
             "method": "getSystemService"
         }, 
         {
-            "descriptor": "()Ljava/lang/String;", 
-            "class": "Landroid/telephony/TelephonyManager;", 
-            "method": "getLine1Number"
+            "descriptor": "()I", 
+            "class": "Landroid/net/wifi/WifiInfo;", 
+            "method": "getNetworkId"
         }
     ], 
     "yscore": 1, 
     "x1_permission": [], 
-    "crime": "Get the phone number of device.", 
-    "label": ["collection", "telephony"]
+    "crime": "Get the current WiFi id.", 
+    "label": ["collection", "wifi"]
 }
