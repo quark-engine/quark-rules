@@ -1,5 +1,5 @@
 {
-    "crime": "Get the phone number of device and write it into file.",
+    "crime": "Write the phone number into a file",
     "x1_permission": [],
     "x2n3n4_comb": [
         {
