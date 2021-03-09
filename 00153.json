@@ -10,11 +10,6 @@
             "descriptor": "()Ljava/io/OutputStream;"
         },
         {
-            "descriptor": "(Ljava/io/OutputStream;)V",
-            "class": "Ljava/io/DataOutputStream;",
-            "method": "<init>"
-        },
-        {
             "descriptor": "([BII)V",
             "class": "Ljava/io/DataOutputStream;",
             "method": "write"
