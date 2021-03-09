@@ -1,9 +1,9 @@
 {
     "crime": "Send binary data over HTTP",
-    "x1_permission": [
+    "permission": [
         "android.permission.INTERNET"
     ],
-    "x2n3n4_comb": [
+    "api": [
         {
             "class": "Ljava/net/HttpURLConnection;",
             "method": "getOutputStream",
@@ -20,7 +20,7 @@
             "method": "write"
         }
     ],
-    "yscore": 1,
+    "score": 1,
     "label": [
         "http"
     ]
