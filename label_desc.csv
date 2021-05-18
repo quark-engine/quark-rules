@@ -1,0 +1,8 @@
+label,description
+sms,Read/Write/Send sms content
+location,Leakage of Location of the device
+calendar, Get calendar information as calendar event
+calllog, Retrieve or manipulate sensitive data from call log
+http, Use http to send sensitive data
+accessibility service, Use Accessibility Service to perform user actions
+
