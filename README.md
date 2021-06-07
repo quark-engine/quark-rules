@@ -23,9 +23,3 @@ For adding a new rule to this repository, you may refer to our doc [here](https:
 # Credits
 
 [cryptax](https://github.com/cryptax), [3aglew0](https://github.com/3aglew0), [Dil3mm3](https://github.com/Dil3mm3), and [ciastron](https://github.com/ciastron) for their awesome rules
-
-
-# Contributors
-<a href="https://github.com/quark-engine/quark-rules/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=quark-engine/quark-rules" />
-</a>
