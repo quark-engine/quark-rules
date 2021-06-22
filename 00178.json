@@ -5,14 +5,14 @@
         {
             "class": "Ljava/lang/ProcessBuilder;",
             "method": "<init>",
-            "descriptor": "([Ljava/lang/String;)V",
+            "descriptor": "([Ljava/lang/String;)V"
         },
         {
             "class": "Ljava/lang/ProcessBuilder;",
             "method": "start",
-            "descriptor": "()Ljava/lang/Process;",
-        },
+            "descriptor": "()Ljava/lang/Process;"
+        }
     ],
     "score": 1,
-    "label": ["command"],
+    "label": ["command"]
 }
