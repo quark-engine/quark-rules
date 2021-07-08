@@ -9,7 +9,7 @@
         },
         {
             "class": "Landroid/graphics/Bitmap;",
-            "method": "compress",
+            "method": "compress",,
             "descriptor": "(Landroid/graphics/Bitmap$CompressFormat; I Ljava/io/OutputStream;)Z"
         }
     ],
