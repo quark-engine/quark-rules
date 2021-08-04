@@ -5,4 +5,4 @@ calendar, Get calendar information as calendar event
 calllog, Retrieve or manipulate sensitive data from call log
 http, Use http to send sensitive data
 accessibility service, Use Accessibility Service to perform user actions
-
+so, Load native libraries(.so)
