@@ -31,6 +31,9 @@ def duplicate_check():
 if __name__ == "__main__":
 
     duplicates = sorted((list(duplicate_check())))
-    # duplicates = str(duplicates)
-    print(f"found duplicates - {duplicates}")
-    sys.exit(1)
+    if duplicates:
+        print(f"found duplicates - {duplicates}")
+        sys.exit(1)
+    else:
+        print("No duplicates found")
+        sys.exit(0)
