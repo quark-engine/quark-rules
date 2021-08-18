@@ -25,6 +25,7 @@ def duplicate_check():
                     if k.strip() != "":
                         data2.append(k)
             if data1 == data2:
+                duplicate_array.append(list[i])
                 duplicate_array.append(list[j])
     return set(duplicate_array)
 
