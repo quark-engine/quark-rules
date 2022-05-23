@@ -2,12 +2,13 @@ import os
 import sys
 
 def duplicate_check():
-    files = os.listdir(".")
-    files.remove(".git")
-    files.remove(".github")
-    list = []
-    for i in files:
-        list.append(i)
+    list = [
+        os.path.join(dir_path, file)
+        for dir_path, _, file_list in os.walk("rules")
+        for file in file_list
+        if file.endswith("json")
+    ]
+
     duplicate_array = []
     for i in range(len(list)):
         data1=[]
