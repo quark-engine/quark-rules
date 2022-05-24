@@ -2,6 +2,11 @@
 
 Welcome to the official rule set provided by [Quark-Engine](https://github.com/quark-engine/quark-engine)
 
+# Navigate Rules
+The easiest way to navigate this ruleset is using [Detection Rules Viewer](https://quark-engine.github.io/ruleviewer/)! With this viewer, you can use labels and keywords to search for the rules you need.
+
+![](https://i.imgur.com/boDSXbf.gif)
+
 # Download Rules
 
 * git
