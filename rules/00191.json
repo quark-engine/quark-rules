@@ -6,7 +6,7 @@
             "class": "Landroid/net/Uri;",
             "method": "parse",
             "descriptor": "(Ljava/lang/String;)Landroid/net/Uri;",
-            "match_keywords":[
+            "match_keywords": [
                 "sms/inbox"
             ]
         },
@@ -16,6 +16,8 @@
             "descriptor": "(Ljava/lang/String;)I"
         }
     ],
-    "score": 1,
-    "label": ["sms"]
+    "score": -0.31,
+    "label": [
+        "sms"
+    ]
 }

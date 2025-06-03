@@ -1,6 +1,8 @@
 {
     "crime": "Check Admin permissions to (probably) get them",
-    "permission": ["android.permission.BIND_DEVICE_ADMIN"],
+    "permission": [
+        "android.permission.BIND_DEVICE_ADMIN"
+    ],
     "api": [
         {
             "class": "Landroid/content/Context;",
@@ -13,7 +15,7 @@
             "descriptor": "(Landroid/content/ComponentName;)Z"
         }
     ],
-    "score": 1,
+    "score": -0.33,
     "label": [
         "admin"
     ]

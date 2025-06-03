@@ -6,7 +6,7 @@
             "class": "Landroid/content/ContentResolver;",
             "method": "query",
             "descriptor": "(Landroid/net/Uri; [Ljava/lang/String; Ljava/lang/String; [Ljava/lang/String; Ljava/lang/String;)Landroid/database/Cursor;",
-            "match_keywords":[
+            "match_keywords": [
                 "sms"
             ]
         },
@@ -14,11 +14,13 @@
             "class": "Landroid/database/Cursor;",
             "method": "getColumnIndex",
             "descriptor": "(Ljava/lang/String;)I",
-            "match_keywords":[
+            "match_keywords": [
                 "address"
             ]
         }
     ],
-    "score": 1,
-    "label": ["sms"]
+    "score": -1.29,
+    "label": [
+        "sms"
+    ]
 }

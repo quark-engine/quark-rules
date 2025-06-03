@@ -13,10 +13,9 @@
             "method": "getOutputStream"
         }
     ],
-    "score": 1,
+    "score": 0.16,
     "label": [
         "sms",
         "http"
     ]
 }
-

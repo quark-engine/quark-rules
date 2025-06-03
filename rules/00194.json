@@ -13,6 +13,8 @@
             "descriptor": "(I)V"
         }
     ],
-    "score": 1,
-    "label": ["record"]
+    "score": -2.32,
+    "label": [
+        "record"
+    ]
 }

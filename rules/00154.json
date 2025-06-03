@@ -2,19 +2,19 @@
     "crime": "Connect hostname to TCP or UDP socket using KryoNet",
     "permission": [],
     "api": [
-	{
-	    "class": "Ljava/net/InetAddress;",
+        {
+            "class": "Ljava/net/InetAddress;",
             "method": "getByName",
             "descriptor": "(Ljava/lang/String;)Ljava/net/InetAddress;"
         },
-
         {
             "class": "Lcom/esotericsoftware/kryonet/Client;",
             "method": "connect",
             "descriptor": "(I Ljava/net/InetAddress; I)V"
         }
     ],
-    "score": 1,
-    "label": ["socket"]
+    "score": 0.27,
+    "label": [
+        "socket"
+    ]
 }
-

@@ -13,7 +13,7 @@
             "descriptor": "(Landroid/net/Uri; Z Landroid/database/ContentObserver;)V"
         }
     ],
-    "score": 1,
+    "score": -5.69,
     "label": [
         "sms"
     ]
