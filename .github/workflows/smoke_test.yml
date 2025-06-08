@@ -25,9 +25,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
-      
-      
-
       # Runs a single command using the runners shell
       - name: Install dependencies
         run: |
@@ -38,5 +35,5 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          git clone https://github.com/quark-engine/apk-malware-samples
-          quark -a apk-malware-samples/14d9f1a92dd984d6040cc41ed06e273e.apk -r . -s
+          git clone https://github.com/quark-engine/apk-samples
+          quark -a apk-samples/malware-samples/14d9f1a92dd984d6040cc41ed06e273e.apk -r . -s
