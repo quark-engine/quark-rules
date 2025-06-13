@@ -13,10 +13,9 @@
             "method": "matcher"
         }
     ],
-    "score": 1,
+    "score": 0.39,
     "label": [
         "sms",
         "pin"
     ]
 }
-

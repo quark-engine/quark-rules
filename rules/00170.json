@@ -13,10 +13,9 @@
             "descriptor": "(Ljava/lang/String; Ljava/lang/String;)Landroid/content/SharedPreferences$Editor;"
         }
     ],
-    "score": 1,
+    "score": 2.15,
     "label": [
         "applications",
         "privacy"
     ]
 }
-

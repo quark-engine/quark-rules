@@ -13,7 +13,11 @@
             "descriptor": "(Landroid/hardware/Camera$ShutterCallback; Landroid/hardware/Camera$PictureCallback; Landroid/hardware/Camera$PictureCallback;)V"
         }
     ],
-    "score": 1,
-    "label": ["camera"],
-    "malware": ["4b65291d3453664b214cf2b0cfd0cd5d"]
+    "score": -0.76,
+    "label": [
+        "camera"
+    ],
+    "malware": [
+        "4b65291d3453664b214cf2b0cfd0cd5d"
+    ]
 }
