@@ -1,0 +1,20 @@
+{
+    "crime": "Create an intent for specific types of data",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/content/Intent;",
+            "method": "<init>",
+            "descriptor": "(Ljava/lang/String;)V"
+        },
+        {
+            "class": "Landroid/content/Intent;",
+            "method": "setDataAndType",
+            "descriptor": "(Landroid/net/Uri; Ljava/lang/String;)Landroid/content/Intent;"
+        }
+    ],
+    "score": 3.911,
+    "label": [
+        "control"
+    ]
+}

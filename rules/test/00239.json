@@ -1,0 +1,23 @@
+{
+    "crime": "Install an additional APK from a file",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/net/Uri;",
+            "method": "fromFile",
+            "descriptor": "(Ljava/io/File;)Landroid/net/Uri;"
+        },
+        {
+            "class": "Landroid/content/Intent;",
+            "method": "setDataAndType",
+            "descriptor": "(Landroid/net/Uri; Ljava/lang/String;)Landroid/content/Intent;",
+            "match_keywords": [
+                "application/vnd.android.package-archive"
+            ]
+        }
+    ],
+    "score": 2.79,
+    "label": [
+        "reflection"
+    ]
+}

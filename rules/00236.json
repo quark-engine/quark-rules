@@ -1,0 +1,21 @@
+{
+    "crime": "Set an intent to launch an activity or service from a different app",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/content/Intent;",
+            "method": "setClassName",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)Landroid/content/Intent;"
+        },
+        {
+            "class": "Landroid/content/Intent;",
+            "method": "putExtra",
+            "descriptor": "(Ljava/lang/String; Ljava/lang/String;)Landroid/content/Intent;"
+        }
+    ],
+    "score": 3.004,
+    "label": [
+        "control",
+        "applications"
+    ]
+}
