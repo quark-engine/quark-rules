@@ -13,7 +13,7 @@
             "descriptor": "(Ljava/lang/CharSequence;)Z"
         }
     ],
-    "score": -2.86,
+    "score": 0.261,
     "label": [
         "accessibility service"
     ]

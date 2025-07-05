@@ -1,0 +1,20 @@
+{
+    "crime": "Display a message through an alert dialog",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/app/AlertDialog$Builder;",
+            "method": "setMessage",
+            "descriptor": "(Ljava/lang/CharSequence;)Landroid/app/AlertDialog$Builder;"
+        },
+        {
+            "class": "Landroid/app/AlertDialog$Builder;",
+            "method": "show",
+            "descriptor": "()Landroid/app/AlertDialog;"
+        }
+    ],
+    "score": 10.683,
+    "label": [
+        "screen"
+    ]
+}

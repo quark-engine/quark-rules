@@ -1,0 +1,20 @@
+{
+    "crime": "Check if the specified file exists in the external storage",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/os/Environment;",
+            "method": "getExternalStorageDirectory",
+            "descriptor": "()Ljava/io/File;"
+        },
+        {
+            "class": "Ljava/io/File;",
+            "method": "exists",
+            "descriptor": "()Z"
+        }
+    ],
+    "score": 6.302,
+    "label": [
+        "file"
+    ]
+}

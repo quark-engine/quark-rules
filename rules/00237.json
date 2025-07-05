@@ -1,0 +1,20 @@
+{
+    "crime": "Create an alert dialog with a neutral button",
+    "permission": [],
+    "api": [
+        {
+            "class": "Landroid/app/AlertDialog$Builder;",
+            "method": "<init>",
+            "descriptor": "(Landroid/content/Context;)V"
+        },
+        {
+            "class": "Landroid/app/AlertDialog$Builder;",
+            "method": "setNeutralButton",
+            "descriptor": "(Ljava/lang/CharSequence; Landroid/content/DialogInterface$OnClickListener;)Landroid/app/AlertDialog$Builder;"
+        }
+    ],
+    "score": 3.128,
+    "label": [
+        "screen"
+    ]
+}

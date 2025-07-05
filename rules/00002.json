@@ -13,7 +13,7 @@
             "descriptor": "(Landroid/hardware/Camera$ShutterCallback; Landroid/hardware/Camera$PictureCallback; Landroid/hardware/Camera$PictureCallback;)V"
         }
     ],
-    "score": 2.25,
+    "score": 2.149,
     "label": [
         "camera"
     ]
