@@ -1,5 +1,5 @@
 {
-    "crime": "Monitor the general action to be performed",
+    "crime": "Monitor outgoing phone call",
     "permission": [],
     "api": [
         {
@@ -10,11 +10,14 @@
         {
             "class": "Ljava/lang/String;",
             "method": "equals",
-            "descriptor": "(Ljava/lang/Object;)Z"
+            "descriptor": "(Ljava/lang/Object;)Z",
+            "match_keywords": [
+                "android.intent.action.NEW_OUTGOING_CALL"
+            ]
         }
     ],
-    "score": 4.71,
+    "score": -3.83,
     "label": [
-        "reflection"
+        "collection"
     ]
 }

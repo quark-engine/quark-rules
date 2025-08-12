@@ -1,5 +1,5 @@
 {
-    "crime": "Monitor the general action to be performed",
+    "crime": "Monitor incoming SMS message",
     "permission": [],
     "api": [
         {
@@ -10,11 +10,14 @@
         {
             "class": "Ljava/lang/String;",
             "method": "equals",
-            "descriptor": "(Ljava/lang/Object;)Z"
+            "descriptor": "(Ljava/lang/Object;)Z",
+            "match_keywords": [
+                "android.provider.Telephony.SMS_RECEIVED"
+            ]
         }
     ],
-    "score": 4.71,
+    "score": 12.41,
     "label": [
-        "reflection"
+        "collection"
     ]
 }
